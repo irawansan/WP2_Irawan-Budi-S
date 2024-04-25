@@ -9,6 +9,7 @@
     <center>
      <form action="<?= base_url('Matakuliah/cetak'); ?>"
 method="post">
+
             <table>
                 <tr>
                    <th colspan="3">
